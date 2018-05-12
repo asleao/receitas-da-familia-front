@@ -1,3 +1,3 @@
 angular.module("receitasFamilia").value("config", {
-    baseUrl: "http://localhost:8000/app"
+    baseUrl: "https://receitas-api.herokuapp.com/app"
 });
